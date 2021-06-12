@@ -1,2 +1,2 @@
-# CI1209-Q-Learning
+# CI1209-Inteligência Artificial
 Q-Learning algorithm
